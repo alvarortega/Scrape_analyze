@@ -76,5 +76,3 @@ class CustomWebPageAnalyzer(WebPageAnalyzer):
         print(positive_words)
         print("Palabras Negativas:")
         print(negative_words)
-
-
